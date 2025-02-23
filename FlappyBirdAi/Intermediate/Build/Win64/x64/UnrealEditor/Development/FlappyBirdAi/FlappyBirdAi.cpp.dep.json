@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\game design\\flappybirdai\\source\\flappybirdai\\flappybirdai.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\game design\\flappybirdai\\intermediate\\build\\win64\\x64\\flappybirdaieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\game design\\flappybirdai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\flappybirdai\\definitions.flappybirdai.h",
+            "c:\\game design\\flappybirdai\\source\\flappybirdai\\flappybirdai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
